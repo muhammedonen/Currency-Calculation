@@ -2,7 +2,7 @@ const url =
   "https://www.akbank.com/_vti_bin/AkbankServicesSecure/FrontEndServiceSecure.svc/GetExchangeData?_=1649283941521";
 var soon;
 var Buy;
-var Name;
+var Name; 
 
 fetch(url)
   .then((res) => res.json())
