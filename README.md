@@ -8,3 +8,5 @@ Seeing and calculating exchange rate information with javascript fetch api..
 <br/>
 <br/>
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+<br/>
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
